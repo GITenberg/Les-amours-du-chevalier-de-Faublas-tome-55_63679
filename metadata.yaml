@@ -1,0 +1,30 @@
+_repo: Les-amours-du-chevalier-de-Faublas-tome-55_63679
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Louvet de Couvray, Jean-Baptiste
+    aliases:
+    - Couvrai, Jean Baptiste Louvet de
+    - Louvet, Jean-Baptiste
+    - Loiret, Jean-Baptiste Louvet de
+    - Couvray, Jean-Baptiste Louvet de
+    birthdate: 1760
+    deathdate: 1797
+    gutenberg_agent_id: '51677'
+    url: http://www.gutenberg.org/2009/agents/51677
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvrai
+    - https://fr.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvray
+description: ''
+gutenberg_issued: '2020-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63679'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les amours du chevalier de Faublas, tome 5/5
+url: http://www.gutenberg.org/ebooks/63679
