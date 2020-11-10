@@ -1,5 +1,8 @@
 _repo: Les-amours-du-chevalier-de-Faublas-tome-55_63679
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63679-h/images/cover.jpg
 creator:
   author:
     agent_name: Louvet de Couvray, Jean-Baptiste
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvrai
     - https://fr.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvray
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63679#Les-amours-du-chevalier-de-Faublas-tome-55
 gutenberg_issued: '2020-11-08'
 gutenberg_type: Text
 identifiers:
